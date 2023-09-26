@@ -1,6 +1,8 @@
 Tip Calculator - Solution Code
 =================================
 
+![tipcalculator](https://raw.githubusercontent.com/cbatuic/TipCalculator/main/tipcalc.gif)
+
 Solution code for the Android Basics in Kotlin: Tip Calculator app.
 
 
